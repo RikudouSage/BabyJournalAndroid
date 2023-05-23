@@ -1,0 +1,20 @@
+Track your baby's sleeping, feeding, diapering and other activities!
+
+And the best part - everything is encrypted, only you own the data and only you (and people you share your account with) can access them, even the developers of this app cannot read the data you have saved!
+
+Differences to similar apps:
+
+- Everything is encrypted - we take privacy seriously, we don't even have your first name unencrypted
+- Everything is free - this app is and will forever be free
+- Open source - it's open source so every programmer in the world can verify that what we're saying here is true and not just marketing
+
+Features:
+
+- Track feeding (nursing, bottle feeding, solid foods)
+- Diapering
+- Breast pumping
+- Sleeping
+- List of all activities
+- Per day summary of activities
+- Sharing account with multiple people
+- Absolutely no ads, no tracking and no data mining!

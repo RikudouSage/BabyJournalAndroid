@@ -1,0 +1,20 @@
+Sledujte spaní, krmení, přebalování a další aktivity vašeho dítěte!
+
+A ta nejlepší část - vše je zašifrováno, jen vy vlastníte vaše data a jen vy (a lidi, kterým nasdílíte přístup) k nim máte přístup, ani vývojář aplikace nemůže ve vašich datech číst!
+
+Rozdíly oproti podobným aplikacím:
+
+- Vše je zašifrováno - soukromí bereme vážně, nemáme odšifrováno ani vaše křestní jméno
+- Vše je zdarma - tato aplikace je a navždy bude zdarma
+- Open source - je to open source, takže každý programátor na světě si může ověřit, že říkáme pravdu a není to jen marketing
+
+Co aplikace umí:
+
+- Sledování krmení (kojení, z lahve, dokrm)
+- Přebalování
+- Odsávání
+- Spaní
+- Seznam všech aktivit
+- Každodenní shrnutí aktivit
+- Sdílení účtu s více lidma
+- Žádné reklamy, žádné sledování a absolutně žádné vykrádání osobních dat!
