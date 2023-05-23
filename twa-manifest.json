@@ -1,0 +1,42 @@
+{
+  "packageId": "app.baby_journal.twa",
+  "host": "baby-journal.app",
+  "name": "Baby Journal & Activity Tracker",
+  "launcherName": "Baby Journal",
+  "display": "standalone",
+  "themeColor": "#C2185B",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#303030",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://baby-journal.app/assets/icons/icon-512x512.png",
+  "maskableIconUrl": "https://baby-journal.app/assets/icons/icon-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/home/dominik/Android/Keystores/baby-journal.keystore",
+    "alias": "baby_journal"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://baby-journal.app/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://baby-journal.app/",
+  "minSdkVersion": 19,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1.0.0"
+}
