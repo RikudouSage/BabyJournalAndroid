@@ -13,14 +13,14 @@
   "enableNotifications": true,
   "startUrl": "/",
   "iconUrl": "https://baby-journal.app/assets/icons/icon-512x512.png",
-  "maskableIconUrl": "https://baby-journal.app/assets/icons/icon-512x512.png",
+  "maskableIconUrl": "https://baby-journal.app/assets/icons/maskable/icon-512x512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/home/dominik/Android/Keystores/baby-journal.keystore",
     "alias": "baby_journal"
   },
-  "appVersionName": "1.0.0",
-  "appVersionCode": 1,
+  "appVersionName": "2.0.0",
+  "appVersionCode": 2,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://baby-journal.app/manifest.webmanifest",
@@ -38,5 +38,5 @@
   "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
-  "appVersion": "1.0.0"
+  "appVersion": "2.0.0"
 }
