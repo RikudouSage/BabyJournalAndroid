@@ -5,22 +5,23 @@
   "launcherName": "Baby Journal",
   "display": "standalone",
   "themeColor": "#C2185B",
+  "themeColorDark": "#000000",
   "navigationColor": "#000000",
   "navigationColorDark": "#000000",
   "navigationDividerColor": "#000000",
   "navigationDividerColorDark": "#000000",
   "backgroundColor": "#303030",
   "enableNotifications": true,
-  "startUrl": "/",
+  "startUrl": "/?mode=twa",
   "iconUrl": "https://baby-journal.app/assets/icons/icon-512x512.png",
   "maskableIconUrl": "https://baby-journal.app/assets/icons/maskable/icon-512x512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
-    "path": "/home/dominik/Android/Keystores/baby-journal.keystore",
+    "path": "baby-journal.keystore",
     "alias": "baby_journal"
   },
-  "appVersionName": "2.0.0",
-  "appVersionCode": 2,
+  "appVersionName": "4.0.0",
+  "appVersionCode": 4,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://baby-journal.app/manifest.webmanifest",
@@ -38,5 +39,5 @@
   "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
-  "appVersion": "2.0.0"
+  "appVersion": "4.0.0"
 }
