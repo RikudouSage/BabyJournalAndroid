@@ -23,7 +23,7 @@ plugins {
 def twaManifest = [
     applicationId: 'app.baby_journal.twa',
     hostName: 'baby-journal.app', // The domain being opened in the TWA.
-    launchUrl: '/?mode=twa&version=5', // The start path for the TWA. Must be relative to the domain.
+    launchUrl: '/?mode=twa&version=6', // The start path for the TWA. Must be relative to the domain.
     name: 'Baby Journal & Activity Tracker', // The application name.
     launcherName: 'Baby Journal', // The name shown on the Android Launcher.
     themeColor: '#C2185B', // The color used for the status bar.
@@ -56,8 +56,8 @@ android {
         applicationId "app.baby_journal.twa"
         minSdkVersion 19
         targetSdkVersion 33
-        versionCode 5
-        versionName "5.0.0"
+        versionCode 6
+        versionName "6.0.0"
 
         // The name for the application
         resValue "string", "appName", twaManifest.name

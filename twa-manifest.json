@@ -12,7 +12,7 @@
   "navigationDividerColorDark": "#000000",
   "backgroundColor": "#303030",
   "enableNotifications": true,
-  "startUrl": "/?mode=twa&version=5",
+  "startUrl": "/?mode=twa&version=6",
   "iconUrl": "https://baby-journal.app/assets/icons/icon-512x512.png",
   "maskableIconUrl": "https://baby-journal.app/assets/icons/maskable/icon-512x512.png",
   "splashScreenFadeOutDuration": 300,
@@ -20,8 +20,8 @@
     "path": "baby-journal.keystore",
     "alias": "baby_journal"
   },
-  "appVersionName": "5.0.0",
-  "appVersionCode": 5,
+  "appVersionName": "6.0.0",
+  "appVersionCode": 6,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://baby-journal.app/manifest.webmanifest",
@@ -39,5 +39,5 @@
   "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
-  "appVersion": "5.0.0"
+  "appVersion": "6.0.0"
 }
